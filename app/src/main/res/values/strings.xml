@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AtrapaThots</string>
+    <string name="title_activity_word">wordActivity</string>
+    <string name="go">GO!</string>
+    <string name="restart">Restart</string>
+</resources>
